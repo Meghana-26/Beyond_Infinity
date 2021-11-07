@@ -1,7 +1,22 @@
-# Skin-Extraction-from-Image-and-Finding-Dominant-Color
-Repository containing that code for the article Skin Segmentation and Dominant Tone/Color Extraction found at "https://medium.com/@mithushancj/skin-segmentation-and-dominant-tone-color-extraction-fe158d24badf". 
+# Hey, Hi:wave: We are Team **Beyond Infinity**
 
-Project is an implementation of skin segmentation using OpenCV and dominant color extraction using SciKit-Learn. Read the article and notebook file of breakdown for the process.
+## About the Project :memo:
+The project is about the recommendation of makeup based upon the skin tone and the occasion as per the user requirement and the user can try the products virtually by uploading photos in [myntra](https://www.myntra.com/) website.
 
-## Getting Started
-Provided you already have NumPy, SciKit-Learn, Matplotlib, OpenCV and imutils already installed clone the project and either run the python file or the notebook and run it locally.
+## Built with 
+The project is built with some technologies:
+1. Web Technologies 
+   - HTML, CSS
+2. Web frameworks
+   - [flask](https://pypi.org/project/Flask/)
+3. Programming Languages
+   - Python (Libraries - [pandas](https://pandas.pydata.org/docs/), [numpy](https://numpy.org/), [opencv](https://opencv.org/), [dlib](http://dlib.net/) etc) 
+   - JavaScript
+
+## How to use :question:
+Here is a flow chart how to access the application
+
+![Flowchart](myntra_flow.png)
+
+
+
